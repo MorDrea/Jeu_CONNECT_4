@@ -1,0 +1,787 @@
+object Form13: TForm13
+  Left = 0
+  Top = 0
+  BorderIcons = [biMinimize]
+  BorderStyle = bsSingle
+  Caption = 'Form13'
+  ClientHeight = 666
+  ClientWidth = 910
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDesigned
+  PixelsPerInch = 50
+  TextHeight = 13
+  object Label8: TLabel
+    Left = 8
+    Top = 647
+    Width = 117
+    Height = 15
+    Caption = 'Designed by MorDrea'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Cambria'
+    Font.Style = [fsItalic]
+    ParentFont = False
+  end
+  object Label9: TLabel
+    Left = 832
+    Top = 647
+    Width = 60
+    Height = 15
+    Caption = 'Version 1.0'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Cambria'
+    Font.Style = [fsItalic]
+    ParentFont = False
+  end
+  object Panel1: TPanel
+    Left = 168
+    Top = 32
+    Width = 529
+    Height = 609
+    TabOrder = 0
+    object Panel2: TPanel
+      Left = 8
+      Top = 456
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 0
+      object Shape1: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel3: TPanel
+      Left = 96
+      Top = 456
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 1
+      object Shape2: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel4: TPanel
+      Left = 184
+      Top = 456
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 2
+      object Shape3: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel5: TPanel
+      Left = 272
+      Top = 456
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 3
+      object Shape4: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel6: TPanel
+      Left = 360
+      Top = 456
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 4
+      object Shape5: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel7: TPanel
+      Left = 448
+      Top = 456
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 5
+      object Shape6: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel8: TPanel
+      Left = 8
+      Top = 368
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 6
+      object Shape7: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel9: TPanel
+      Left = 96
+      Top = 368
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 7
+      object Shape8: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel10: TPanel
+      Left = 184
+      Top = 368
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 8
+      object Shape9: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel11: TPanel
+      Left = 272
+      Top = 368
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 9
+      object Shape10: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel12: TPanel
+      Left = 360
+      Top = 368
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 10
+      object Shape11: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel13: TPanel
+      Left = 448
+      Top = 368
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 11
+      object Shape12: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel14: TPanel
+      Left = 8
+      Top = 280
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 12
+      object Shape13: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel15: TPanel
+      Left = 96
+      Top = 280
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 13
+      object Shape14: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel16: TPanel
+      Left = 184
+      Top = 280
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 14
+      object Shape15: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel17: TPanel
+      Left = 272
+      Top = 280
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 15
+      object Shape16: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel18: TPanel
+      Left = 360
+      Top = 280
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 16
+      object Shape17: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel19: TPanel
+      Left = 448
+      Top = 280
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 17
+      object Shape18: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel20: TPanel
+      Left = 8
+      Top = 188
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 18
+      object Shape19: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel21: TPanel
+      Left = 96
+      Top = 188
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 19
+      object Shape20: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel22: TPanel
+      Left = 184
+      Top = 188
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 20
+      object Shape21: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel23: TPanel
+      Left = 272
+      Top = 188
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 21
+      object Shape22: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel24: TPanel
+      Left = 360
+      Top = 188
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 22
+      object Shape23: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel25: TPanel
+      Left = 448
+      Top = 188
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 23
+      object Shape24: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel26: TPanel
+      Left = 8
+      Top = 96
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 24
+      object Shape25: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel27: TPanel
+      Left = 96
+      Top = 96
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 25
+      object Shape26: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel28: TPanel
+      Left = 184
+      Top = 96
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 26
+      object Shape27: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel29: TPanel
+      Left = 272
+      Top = 96
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 27
+      object Shape28: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel30: TPanel
+      Left = 360
+      Top = 96
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 28
+      object Shape29: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel31: TPanel
+      Left = 448
+      Top = 96
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 29
+      object Shape30: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel32: TPanel
+      Left = 8
+      Top = 8
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 30
+      object Shape31: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel33: TPanel
+      Left = 96
+      Top = 8
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 31
+      object Shape32: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel34: TPanel
+      Left = 184
+      Top = 8
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 32
+      object Shape33: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel35: TPanel
+      Left = 272
+      Top = 8
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 33
+      object Shape34: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel36: TPanel
+      Left = 360
+      Top = 8
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 34
+      object Shape35: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Panel37: TPanel
+      Left = 448
+      Top = 8
+      Width = 73
+      Height = 73
+      Caption = 'Panel2'
+      TabOrder = 35
+      object Shape36: TShape
+        Left = 8
+        Top = 8
+        Width = 57
+        Height = 57
+        Shape = stCircle
+      end
+    end
+    object Button1: TButton
+      Left = 8
+      Top = 551
+      Width = 73
+      Height = 49
+      TabOrder = 36
+      OnClick = Button1Click
+    end
+    object Button2: TButton
+      Left = 96
+      Top = 551
+      Width = 73
+      Height = 49
+      TabOrder = 37
+      OnClick = Button2Click
+    end
+    object Button3: TButton
+      Left = 184
+      Top = 551
+      Width = 73
+      Height = 49
+      TabOrder = 38
+      OnClick = Button3Click
+    end
+    object Button4: TButton
+      Left = 272
+      Top = 551
+      Width = 73
+      Height = 49
+      TabOrder = 39
+      OnClick = Button4Click
+    end
+    object Button5: TButton
+      Left = 360
+      Top = 551
+      Width = 73
+      Height = 49
+      TabOrder = 40
+      OnClick = Button5Click
+    end
+    object Button6: TButton
+      Left = 448
+      Top = 551
+      Width = 73
+      Height = 49
+      TabOrder = 41
+      OnClick = Button6Click
+    end
+  end
+  object Panel38: TPanel
+    Left = 10
+    Top = 32
+    Width = 152
+    Height = 609
+    TabOrder = 1
+    object Label2: TLabel
+      Left = 32
+      Top = 0
+      Width = 73
+      Height = 19
+      Alignment = taCenter
+      Caption = 'JOUEUR 1'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Cambria'
+      Font.Style = [fsBold]
+      ParentFont = False
+    end
+    object Shape37: TShape
+      Left = 48
+      Top = 345
+      Width = 57
+      Height = 57
+      Brush.Color = clBlue
+      Shape = stCircle
+    end
+    object Shape38: TShape
+      Left = 48
+      Top = 536
+      Width = 57
+      Height = 57
+      Brush.Color = clYellow
+      Shape = stCircle
+    end
+    object Label6: TLabel
+      Left = 48
+      Top = 511
+      Width = 71
+      Height = 19
+      Caption = 'GAGNANT'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Cambria'
+      Font.Style = []
+      ParentFont = False
+    end
+    object Label7: TLabel
+      Left = 48
+      Top = 320
+      Width = 71
+      Height = 19
+      Caption = 'EN COURS'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Cambria'
+      Font.Style = []
+      ParentFont = False
+    end
+  end
+  object Panel39: TPanel
+    Left = 707
+    Top = 32
+    Width = 185
+    Height = 609
+    TabOrder = 2
+    object Label3: TLabel
+      Left = 52
+      Top = 0
+      Width = 77
+      Height = 19
+      Alignment = taCenter
+      Caption = 'JOUEUR 2'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Cambria'
+      Font.Style = [fsBold]
+      ParentFont = False
+    end
+    object Shape39: TShape
+      Left = 64
+      Top = 345
+      Width = 57
+      Height = 57
+      Brush.Color = clRed
+      Shape = stCircle
+    end
+    object Shape40: TShape
+      Left = 64
+      Top = 536
+      Width = 57
+      Height = 57
+      Brush.Color = clGreen
+      Shape = stCircle
+    end
+    object Label4: TLabel
+      Left = 59
+      Top = 320
+      Width = 71
+      Height = 19
+      Caption = 'EN COURS'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Cambria'
+      Font.Style = []
+      ParentFont = False
+    end
+    object Label5: TLabel
+      Left = 59
+      Top = 511
+      Width = 71
+      Height = 19
+      Caption = 'GAGNANT'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Cambria'
+      Font.Style = []
+      ParentFont = False
+    end
+  end
+  object Panel40: TPanel
+    Left = 10
+    Top = 0
+    Width = 882
+    Height = 26
+    TabOrder = 3
+    object Label1: TLabel
+      Left = 384
+      Top = 2
+      Width = 89
+      Height = 19
+      Alignment = taCenter
+      Caption = 'CONNECT 4'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -16
+      Font.Name = 'Cambria'
+      Font.Style = [fsBold]
+      ParentFont = False
+    end
+  end
+end
