@@ -3,7 +3,6 @@ unit Unit13;
 interface
 
 uses
-  Unit2,
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.StdCtrls;
 
@@ -124,6 +123,7 @@ type
     { Déclarations privées }
   public
     { Déclarations publiques }
+    L1, L2 : String;
   end;
 
 var
@@ -147,7 +147,7 @@ end;
 
 var
 jetons: array[0..3] of Point;
-Form2 : TForm2;
+
 
 
 
@@ -762,7 +762,7 @@ begin
         tab[1, 0] := 0;
       end else begin
          shape25.Brush.Color := clBlue;
-         tab[1, 0] := 0;
+         tab[1, 0] := 1;
       end;
    end;
   end;
@@ -1146,9 +1146,5 @@ for y := 0 to 5 do
     end;
   end;
 
-  Form2 := TForm2.Create(nil);
-  Form2.Show;
-  Form13.Label10.Caption := Form2.Edit1.Text;
-//  Form13.Label11.Caption := Form2.Edit2.Text;
-  //Form2.Close;
+
 end.

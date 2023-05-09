@@ -762,7 +762,7 @@ begin
         tab[1, 0] := 0;
       end else begin
          shape25.Brush.Color := clBlue;
-         tab[1, 0] := 0;
+         tab[1, 0] := 1S;
       end;
    end;
   end;
